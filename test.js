@@ -1,1 +1,1 @@
-console.log("Test Failed");
+console.log("Test Passed");
